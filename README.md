@@ -1,4 +1,4 @@
-# Cursor Homepage Clone
+# Cursor Clone
 
 A recreation of the Cursor homepage using HTML and CSS.
 
@@ -13,5 +13,4 @@ This project consists of two main files:
 
 Visit the hosted website:https://newcursorclone.netlify.app/
 
-![Cursor Homepage Clone Screenshot](./assets/screenshot.png)
-# Cursor_clone
+![Cursor Homepage Clone Screenshot](/Cursor_Clone/assets/screenshot.png)
